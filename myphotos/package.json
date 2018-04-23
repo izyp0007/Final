@@ -1,0 +1,17 @@
+{
+  "name": "myphotos",
+  "version": "1.0.0",
+  "description": "My Photos",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "knex": "^0.14.6",
+    "sqlite3": "^4.0.0"
+  }
+}

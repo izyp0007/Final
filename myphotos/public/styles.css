@@ -1,0 +1,57 @@
+body {
+    font-family: 'Gamja Flower', cursive;
+	color: black;
+    font-size: 16px;
+    padding: 20px 100px 0px 100px;
+    background: #42E8E3;
+	font-weight:bold;
+
+}
+
+
+/* List */
+h1{
+   font-weight:bold;
+	text-align:center;
+	font-size:36px;
+	font-family: 'Gamja Flower', cursive;
+
+}
+div{
+ text-shadow: 
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000;
+	color: #f5f5dc;
+}
+ul {
+    list-style: none;
+	overflow:visible;
+}
+
+li {
+
+   text-shadow: 
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000;
+
+    text-align: right;
+}
+    
+img {
+	width:100%;
+	height:100%;
+	border:2px solid #021a40;
+	background-color:#55ffc9; 
+}
